@@ -4,6 +4,8 @@ import os
 
 from discord.ext import commands
 base_url= https://www.desmos.com/
+  
+ add discord.result
   import math
 
                        a = 1
@@ -18,3 +20,4 @@ import discord
 print(input equation)
 
 ctx.bot@commannd)input()
+print(desmos.result)
