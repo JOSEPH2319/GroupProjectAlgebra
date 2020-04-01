@@ -21,3 +21,20 @@ print(input equation)
 
 ctx.bot@commannd)input()
 print(desmos.result)
+
+import requests
+sub_url= https://www.mathpapa.com/
+    input() equation
+  
+  fetch result.= mathpapa
+    
+if message.content.startswith( 'FAQs'):
+        msg = HELP
+        await message.channel.send(What is your equation)
+      
+      
+      @bot.command(name="solve_eq")
+
+    await ctx.send(sum.(result.mathpapa)
+    
+bot.run(token)
