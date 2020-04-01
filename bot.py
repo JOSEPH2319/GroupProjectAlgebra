@@ -32,9 +32,11 @@ if message.content.startswith( 'FAQs'):
         msg = HELP
         await message.channel.send(What is your equation)
       
-      
+         if @bot.command == desmos, mathpapa 
+                           print("Please enter a valid statement")
       @bot.command(name="solve_eq")
 
     await ctx.send(sum.(result.mathpapa)
     
 bot.run(token)
+                
