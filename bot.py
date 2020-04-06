@@ -25,8 +25,10 @@ print(desmos.result)
 import requests
 sub_url= https://www.mathpapa.com/
     input() equation
+    
+    return 
   
-  fetch result.= mathpapa
+ result.= mathpapa
     
 if message.content.startswith( 'FAQs'):
         msg = HELP
@@ -36,7 +38,23 @@ if message.content.startswith( 'FAQs'):
                            print("Please enter a valid statement")
       @bot.command(name="solve_eq")
 
-    await ctx.send(sum.(result.mathpapa)
+    awaitctx.send(.(result.mathpapa)
     
 bot.run(token)
+           sub2_= https://www.wolframalpha.com/
+def__sqrt 
+                  result= ans
+                  
+                  return(setup_menu)
+         definit= sub2_
+                  
+                  if definit == sub2:
+                      print(ans)
+                  elif definit = desmos.result:
+                      print(Error)
+                  else:
+                      print(enter valid statement)
+                  
+                  
+                 
                 
