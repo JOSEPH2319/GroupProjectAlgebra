@@ -33,21 +33,17 @@ sub_url= https://www.mathpapa.com/
 if message.content.startswith( 'FAQs'):
         msg = HELP
         await message.channel.send(What is your equation)
-      
-         if @bot.command == desmos, mathpapa 
-                           print("Please enter a valid statement")
-      @bot.command(name="solve_eq")
-
-    awaitctx.send(.(result.mathpapa)
-    
-bot.run(token)
+     
            sub2_= https://www.wolframalpha.com/
-def__sqrt 
+def__sqrt
+
                   result= ans
                   
                   return(setup_menu)
          definit= sub2_
                   
+        
+        
                   if definit == sub2:
                       print(ans)
                   elif definit = desmos.result:
@@ -55,6 +51,14 @@ def__sqrt
                   else:
                       print(enter valid statement)
                   
-                  
+              if @bot.command == desmos, mathpapa 
+                           print("Please enter a valid statement")
+      @bot.command(name="solve_eq")
+
+    await.ctx.send(.(result.mathpapa)
+                   (desmos.result)
+                   (ans)
+    
+bot.run(token)          
                  
                 
